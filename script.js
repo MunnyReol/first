@@ -1,21 +1,10 @@
-body {
-    background-color:orange;
-    text-align:center;
+var a=10
+var b=20
+var c=a+b
+document .write(c);
+document .write (b,a+b,   a); //Created By Munny Reol
+
+
+function wow(){ alert("Hi Munny Reol");
 }
 
-#click {  
-   color:blue;
-    border-color:red;
-    background-color:cyan;
-}
-
-.name{
-    color:green;
-    text-align:center;
-    font-size:25px;
-}
-p{
-    text-align:center ;
-    font-size:200%;
-    color:yellow;
-}
